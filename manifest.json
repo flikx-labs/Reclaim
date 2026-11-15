@@ -1,0 +1,93 @@
+{
+  "id": "./",
+  "name": "Reclaim — Mindful Habit Freedom & Urge Surfing",
+  "short_name": "Reclaim",
+  "description": "Clinical-grade habit recovery, dynamic dawn sky orb, and urge-surfing SOS suite.",
+  "lang": "en-US",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090B16",
+  "theme_color": "#F6EFE8",
+  "prefer_related_applications": false,
+  "categories": [
+    "health",
+    "lifestyle",
+    "medical"
+  ],
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Craving SOS Rescue",
+      "short_name": "SOS",
+      "description": "Launch 5-minute clinical urge surfing & breathing immediately",
+      "url": "./#sos",
+      "icons": [
+        {
+          "src": "./icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Neuro-Lab Simulator",
+      "short_name": "Neuro-Lab",
+      "description": "Explore 365-day brain receptor recovery & relapse shield",
+      "url": "./#lab",
+      "icons": [
+        {
+          "src": "./icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Clinical Insights",
+      "short_name": "Insights",
+      "description": "View 30-day consistency heatmap and organ recovery timelines",
+      "url": "./#prog",
+      "icons": [
+        {
+          "src": "./icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    }
+  ]
+}
